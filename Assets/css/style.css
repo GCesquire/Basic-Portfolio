@@ -138,10 +138,10 @@ body {
 
 .portfolio-content{
   position: absolute;
-  top: 100px;
-  right: 240px;
-  width: 960px;
-  height: 600px;
+  top: 70px;
+  right: 330px;
+  width: 800px;
+  height: 638px;
   background-color: darkgray;
 
 }
@@ -159,7 +159,6 @@ img  {
   float: left;
 }
 
-
 .image{
   width: 220px;
   color: darkgray;
@@ -170,6 +169,78 @@ img  {
   top: 150px;
   z-index: 1;
   height: 52px;
+}
+
+.portfolio-content-header{
+  position: absolute;
+  top: 70px;
+  right: 330px;
+  width: 800px;
+  height: 50px;
+  color: darkgray;
+  background-color: black;
+  z-index: 1;
+}
+
+.portfolio-content-header-name{
+  position: absolute;
+  top: 70px;
+  right: 930px;
+  width: 200px;
+  height: 50px;
+  color: darkgray;
+  background-color: black;
+  z-index: 1;
+}
+
+.portfolio-content-image-1{
+  color: darkgray;
+  background-color: indigo;
+  text-align: center;
+  position: absolute;
+  left: 330px;
+  top: 160px;
+  z-index: 1;
+}
+
+.portfolio-content-image-2{
+  color: darkgray;
+  background-color: indigo;
+  text-align: center;
+  position: absolute;
+  left: 630px;
+  top: 160px;
+  z-index: 1;
+}
+
+.portfolio-content-image-3{
+  color: darkgray;
+  background-color: indigo;
+  text-align: center;
+  position: absolute;
+  left: 330px;
+  top: 360px;
+  z-index: 1;
+}
+
+.portfolio-content-image-4{
+  color: darkgray;
+  background-color: indigo;
+  text-align: center;
+  position: absolute;
+  left: 630px;
+  top: 360px;
+  z-index: 1;
+}
+
+.portfolio-content-image-5{
+  color: darkgray;
+  background-color: indigo;
+  text-align: center;
+  position: absolute;
+  left: 330px;
+  top: 540px;
+  z-index: 1;
 }
 
 .footer {
