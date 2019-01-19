@@ -266,6 +266,16 @@ img  {
   z-index: 1;
 }
 
+.portfolio-hr{
+  position: absolute;
+  top: 113px;
+  right: 330px;
+  width: 800px;
+  height: 10px;
+  background-color: indigo;
+  z-index: 1;
+}
+
 .portfolio-content-header-name{
   position: absolute;
   top: 70px;
